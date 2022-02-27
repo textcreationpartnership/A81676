@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sign given them being entred into the day of judgment to set their house in order. For the high court of Parliament assembled. From the Lady Eleanor</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81676</idno>
+            <idno type="STC">Wing D2012AA</idno>
+            <idno type="STC">ESTC R231430</idno>
+            <idno type="EEBO-CITATION">99897300</idno>
+            <idno type="PROQUEST">99897300</idno>
+            <idno type="VID">137029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137029)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sign given them being entred into the day of judgment to set their house in order. For the high court of Parliament assembled. From the Lady Eleanor</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1644. [Re]printed with some words of addition for the year present, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah XXXIX --  Prophecies --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Kings --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137029:1"/>
+            <pb facs="tcp:137029:1"/>
+            <p>A SIGN Given them being entred into The day of Iudgment To ſet their Houſe in order.</p>
+            <p>For the High Court of Parliament aſſembled.</p>
+            <p>From the Lady <hi>Eleanor.</hi>
+            </p>
+            <q>
+               <bibl>Psal. 97.</bibl> 
+               <p>The Lord is King (<hi>or reigneth</hi>) let the earth rejoyce; let the great Iſles be glad.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1644.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted with ſome words of addition for the Year preſent, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:137029:2"/>
+            <pb n="3" facs="tcp:137029:2"/>
+            <head>A DISCOVERY Unto what Nation the laſt Day aforehand to be in the laſt days Revealed: Contained in the XX. of <hi>Kings, Iſaiah</hi> 39.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S had no other aſsigned then <hi>The word of God,</hi> touching the Reſurre<g ref="char:EOLhyphen"/>ctions then <hi>being at hand,</hi> but that of <hi>Jonas</hi> the prophet; ſo in point of like incredulity at his return again turned <hi>Sadduces,</hi> appointed no other, but this of King <hi>Hezekiahs</hi> days <hi>(Kings, &amp;c.)</hi> that for a ſign or
+<pb n="4" facs="tcp:137029:3"/>
+aſſurance had, the third day of his upriſing, going up to the Lords houſe to ſeal it; that of the <hi>ſhadows going back,</hi> for the third of his life out length<g ref="char:EOLhyphen"/>ned, a leaſe made him of thrice five years, like a ſhadow when paſt.</p>
+            <p>VVithout which token, not in a capacity of obtaining ſo high bleſſing paſſed not without being by the pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah</hi> advertiſed (the Lord of Hoſts Ambaſſador) his houſe after<g ref="char:EOLhyphen"/>ward how ſwept; and ſons under what ſlavery iſſued from him, not for facility ſuch onely, but difficulty of belief dangerous not a little.</p>
+            <p>Of which days come about again, this great Revolution uſhering the day of Iudgement, his coming in the Clouds; whereof as follows, of <hi>Ja<g ref="char:EOLhyphen"/>cobs</hi> ladder reaching to heaven gate,
+<pb n="5" facs="tcp:137029:3"/>
+thus, The expreſs Epitomy of King <hi>James</hi>'s life of <hi>Great Britain,</hi> where beſide no ſmal plague accompanying his firſt coming, afore never viſited ſo with thoſe tokens, of his like reco<g ref="char:EOLhyphen"/>very, here giving to underſtand be<g ref="char:EOLhyphen"/>yond expectation; ſuch a ſolemn Thankſgiving for which at <hi>Pauls Croſs:</hi> which long Sermon in was re<g ref="char:EOLhyphen"/>lated, how in his late ſickneſs unto death, he likewiſe <hi>juſtified his upright walking with God:</hi> and there with how pluckt off his Cap, and caſt it on the ground, in ſuch a paſsion profeſsing in point of witting Injuſtice, <hi>he would not ſo much as ask God forgiveneſs;</hi> by which way of purging himſelf, as came not behinde <hi>Hezekiah</hi> neither in ſome groſs failings: like that good King his hearkning to thoſe charm<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:137029:4"/>
+               <hi>Babylonian</hi> Ambaſſadors or Spies with letters ſent to congratulate from <hi>Baladon ſon of Baladan.</hi>
+            </p>
+            <p>Alſo who <hi>ſhewed them all his ſtore and armory,</hi> coming from thoſe <hi>Au<g ref="char:EOLhyphen"/>ſtrian Philips, &amp;c.</hi> overcome with like jugling ſlights, <hi>a few figs and jun<g ref="char:EOLhyphen"/>kets,</hi> ſuffered that <hi>Gundamore having ſurveyed the Tower, to carry away as many great Ordnance and Guns as he pleaſed, preſerved for Truths defence, and Kingdoms ſafety,</hi> in no leſs peril of home bred friends ſuch, then for<g ref="char:EOLhyphen"/>reign foes, requiſite with Arms and Forces to be ſecured: And then how ſent his Son after, forced for whoſe <hi>Ranſom</hi> to ſend over <hi>All the precious things and goodly, laid up by his Prede<g ref="char:EOLhyphen"/>ceſſors, to be beſtowed amongſt thoſe in<g ref="char:EOLhyphen"/>ſatiable Eunuchs and Officers diſtribu<g ref="char:EOLhyphen"/>ted.</hi>
+               <pb n="7" facs="tcp:137029:4" rendition="simple:additions"/>
+And laſtly the good man him<g ref="char:EOLhyphen"/>ſelf, in whoſe days <hi>flouriſhed Truth and Peace,</hi> thus over-reached, for all his King-craft and Learning, that brake his heart ſhortly after. <hi>And the reſt of his Acts, and all his might</hi> (or greatneſs) <hi>and how he brought water in<g ref="char:EOLhyphen"/>to the City, and made a Pool and a Con<g ref="char:EOLhyphen"/>duit, that Idol the cross are they not written in the Chronicles, &amp;c.</hi>
+            </p>
+            <p>And thus this <hi>Hezekiah ſlept, and reſted with his fathers, and Manaſſes his ſon reigned in his ſtead;</hi> that came not ſhort of <hi>Ahab:</hi> and he awakened thus, for him ſo much ſuffices, be<g ref="char:EOLhyphen"/>come a ſign himſelf, no inferior one, had the Suns retiring for a ſign, O<g ref="char:EOLhyphen"/>beyed <hi>Joſhuahs</hi> command (no feign<g ref="char:EOLhyphen"/>ed <hi>Phaeton) ſtood <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Moon mo<g ref="char:EOLhyphen"/>ving neither</hi> they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rri<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d that longed
+<pb n="8" facs="tcp:137029:5" rendition="simple:additions"/>
+after Reſt, ſo now before removed, carried thence away, ſhows them the way accomp<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it were, ſets <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <unclear>the</unclear> Eaſt: Moreover for whoſe additional years, fiveteen wedded to thoſe ten degrees, theſe crowning the firſt of his Reign, 1625. forbids any more Coronations of Kings: No more riſing or ſetting here of theirs.</p>
+            <div type="part">
+               <head>
+                  <hi>Kings</hi> xxi. <hi>Chron.</hi> xxxiii.</head>
+               <p>ANd this <hi>Manaſſeh twice twelve years old, when he began to reign over Great Britain;</hi> How he reared <hi>Altars to Baal, and ſet up his Roman Altars, built Altars in the houſe of the Lord, adored that Babylonian Image the Crucifix, manifeſt are they not on re<g ref="char:EOLhyphen"/>cord?</hi> Beyond Heatheniſm abomi<g ref="char:EOLhyphen"/>nation
+<pb n="9" facs="tcp:137029:5"/>
+execrable: Moreover to the overthrow of them and theirs, how many ſeduced, beſide ſhedding ſo much Innocent Blood; inſomuch that the Catalogue of his ſins, <hi>Ma<g ref="char:EOLhyphen"/>naſſes</hi> great wickedneſs, the hateful <hi>Amorites</hi> Cup, wherewith paralleld and worſe; which Tyrants but light in compariſon, weighed with this <hi>MANS,</hi> ſince 1625. the Remon<g ref="char:EOLhyphen"/>ſtrance of the preſent.</p>
+               <p>To whom <hi>the Lord ſpake, and to his people</hi> likewiſe, but both by regard alike improved in his Command<g ref="char:EOLhyphen"/>ments; as the Suns courſe the con<g ref="char:EOLhyphen"/>trary way gone as many degrees a<g ref="char:EOLhyphen"/>ſtray, and ſo both alike whether re<g ref="char:EOLhyphen"/>warded, recomended to the behold<g ref="char:EOLhyphen"/>ers, whoſe high looks brought down, <hi>here ſee whoſe Sons coat this? therefore
+<pb n="10" facs="tcp:137029:6"/>
+thus ſaith the Lord, Behold, I am bring<g ref="char:EOLhyphen"/>ing an evil upon them, that whoſe hear<g ref="char:EOLhyphen"/>eth it, both his ears ſhall tingle:</hi> where thus again, whether <hi>Jeruſalems</hi> line ſtretched over us, CITY and Country both; <hi>And I will wipe Jeru<g ref="char:EOLhyphen"/>ſalem, as a man wipeth a diſh, which he wipeth and turneth it upſide down;</hi> as in a glaſs whether preſents not the face of the preſent, ſpares neither ſide; who not amiſs deriving from <hi>Brute</hi> their denomination, from the Aſs as wel <hi>who underſtands his owner,</hi> no ſuch ſtranger to the dumb. And ſo much for this <hi>Manna</hi> ſet at nought, theſe judgements of the Lord foreſhewed, light by ſet; notwithſtanding ſpeak<g ref="char:EOLhyphen"/>ing the <hi>Canaan</hi> language unto this our Age, to all whoſoever hath ears, in their Native tongue, ſhewed them
+<pb n="11" facs="tcp:137029:6"/>
+their unnatural motion gone back<g ref="char:EOLhyphen"/>ward how far, offended thereat or no, whereof as enſues.</p>
+               <p>This for another making up the number, he when made his ſupplica<g ref="char:EOLhyphen"/>tion, how was heard, alſo returned to <hi>Hampton-Court;</hi> however miſ-led by ſiniſter Counſel, or betrayed, not un<g ref="char:EOLhyphen"/>humbled either, unknown not unto all who agreed to whatſoever, about two years after who ſlew him in his own houſe, attended with glowing ears not a few, ſuch a ſpectacle.</p>
+               <p>And how <hi>the people of the Land ſlew them again that had conſpired, &amp;c. Rainsborough</hi> and our <hi>Holland</hi> Am<g ref="char:EOLhyphen"/>baſſador, taking eſſay of it, Drunken<g ref="char:EOLhyphen"/>neſs added to blood-thirſtineſs, were the firſt ſaluted with which unex<g ref="char:EOLhyphen"/>pected cup.</p>
+               <p>
+                  <pb n="12" facs="tcp:137029:7"/>
+And with expedition (a few words to the wiſe) on this wiſe paſsing on, what <hi>Baptiſm</hi> firſt paſt on his Sons, viſible in the Seers book; withal how ſervile on the other ſide to his Prieſts Biſhops, charmed by their ſubtile Goſpels: whoſe Service book becauſe allowed by his Father, what an Idol made of it, where that for another, recorded in their Prophetical Re<g ref="char:EOLhyphen"/>monſtrance, gave himſelf to them that had Familiar Spirits, bringing up whoſo named by him, the gods and others; as Plays his night exer<g ref="char:EOLhyphen"/>ciſe.</p>
+               <p>And the reſt of his folly, and other of his judgement, making his Prayer<g ref="char:EOLhyphen"/>book alſo equivolent with the Alſuf<g ref="char:EOLhyphen"/>ficient <hi>Scriptures,</hi> evident as his grove made, daily at Ball where ſacrificed
+<pb n="13" facs="tcp:137029:7" rendition="simple:additions"/>
+his time, graced with one of his Fa<g ref="char:EOLhyphen"/>thers unhappy acts, that <hi>Baals</hi> or <hi>James</hi> Chappel, prodigious Tvvins, the other his <hi>Babylonian</hi> Theatre, from <hi>James</hi>'s to vvhich fatal place made his laſt progreſs or march, e<g ref="char:EOLhyphen"/>rected in Commemoration of the Ark as had been, alſo the ſeventeenth Century current; as from <hi>Adam</hi> to the Flood ſo long, not unforevvarned of it by him <hi>that was the ſon of Adam, that was the ſon of God;</hi> that as vvere thoſe days before <hi>Noah,</hi> ſo ſhall be his coming again, concerning not onely Tim<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> golden vial or glaſs, by vvhich account its being at a ſtand: But hovv it ſtands or fares with <hi>faith</hi> put to the queſtion <hi>(Luke, &amp;c.) whe<g ref="char:EOLhyphen"/>th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r found ſuch a thing as f<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>h, how preparid then?</hi>
+               </p>
+               <p>
+                  <pb n="14" facs="tcp:137029:8" rendition="simple:additions"/>
+As for the fit time, or vvhen. Lo, the preſent generation: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Maſters, for ſetting your houſe in order</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>here diſ;charges her calling or place b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> farther giving you in the next place notice, from <hi>Manaſſes fifty five years Reign, of his ſecond coming at hand,</hi> goeth hand in hand vvith that of <hi>Caeſar Auguſtus his five and fifty years,</hi> in vvhoſe Reign <hi>The Prince of Life, The Beginning and Ending</hi> of Monarchy, <hi>came, about the fortieth year, into the world, that began to be a<g ref="char:EOLhyphen"/>bout Thirty years of age, in the fifteenth year of Tiberius,</hi> (Luke, &amp;c.) even the ſum of it bids turn to thoſe ſure Chronicles, penn'd by the <hi>holy Spi<g ref="char:EOLhyphen"/>rits command,</hi> thus ſaith the Spirit, from <hi>the return of Manaſſes days to expect his coming again, aforehand,</hi>
+                  <pb n="15" facs="tcp:137029:8"/>
+as ſhewed unto his ſervants the Pro<g ref="char:EOLhyphen"/>phets, expreſly pointing to the year 1655. at hand, being the time vvhen the flood came, 1655. from the Crea<g ref="char:EOLhyphen"/>tion, as computed by the Ancients and other <hi>Noah</hi> and his <hi>(Baptiſms</hi> figure, at mans eſtate all) preſerved in the <hi>Whales womb, ten moneths</hi> ful<g ref="char:EOLhyphen"/>filling, <hi>before any window in the Ark o<g ref="char:EOLhyphen"/>pened:</hi> and thus <hi>one deep calling to an<g ref="char:EOLhyphen"/>other,</hi> as when the <hi>waters prevail'd,</hi> the ſnowy <hi>Dove found no footing,</hi> the <hi>Ra<g ref="char:EOLhyphen"/>ven</hi> afore ſent forth, no other preſa<g ref="char:EOLhyphen"/>ging then the <hi>Spirit of Propheſie,</hi> at ſuch a time again though ceaſed long at laſt ſalutes the nations with the <hi>O<g ref="char:EOLhyphen"/>live</hi> leaf <hi>in her mouth,</hi> ſo ſeaſonable now for their healing, without which Angelical leaves applied, an evil in<g ref="char:EOLhyphen"/>curable, promiſed <hi>The Tree of life, yielding its monethly fruit.</hi>
+               </p>
+               <p>
+                  <pb n="16" facs="tcp:137029:9"/>
+And ſo be it known, That the a<g ref="char:EOLhyphen"/>foreſaid bleſſed period of years 55. containing Moneths 666. <hi>(Rev.</hi> 13.) called <hi>The number of a MAN</hi> (to vvit) that <hi>Roman</hi> Emperors Reign ſhevved afore the <hi>Moneth</hi> of <hi>Auguſt</hi> bearing his Name; by vvhoſe Pre<g ref="char:EOLhyphen"/>deceſſor the Calender corrected: and 666 Hours fulfilling a <hi>Moneth,</hi> all bids Tyrant Time and his Genera<g ref="char:EOLhyphen"/>tion or Offspring <hi>Adieu,</hi> ſubſcribed vvith <hi>Emanuel Jeſus,</hi> its Numerals <hi>MVILV. Anno</hi> 55.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
